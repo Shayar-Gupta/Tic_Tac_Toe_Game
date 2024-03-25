@@ -3,5 +3,6 @@
     <string name="appname">Tic - Tac - Toe Game</string>
     <string name="app">Tic Tac Toe</string>
     <string name="reset">reset</string>
+    <string name="created_by">~ made by sandeep</string>
 
 </resources>

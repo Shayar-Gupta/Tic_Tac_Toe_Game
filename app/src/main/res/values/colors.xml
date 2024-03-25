@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#A077E4</color>
+    <color name="headingColor">#361A64</color>
+    <color name="btnTint">#8D64D1</color>
+    <color name="btnTxtColor">#190242</color>
+    <color name="winning_color">#FFFF00</color>
+    <color name="txtMoveColor">#2F0677</color>
+    <color name="btnResetColor">#361A64</color>
+    <color name="cutomToastTxtColor">#BFA0F1</color>
+</resources>
